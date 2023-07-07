@@ -14,6 +14,7 @@ This is a clone of the popular streaming service Disney+ Hotstar. The app aims t
 ## Acknowledgments
 
 youtube video : https://www.youtube.com/watch?v=kn8HPNwPEkw&t=9423s
+
 youtube channel : https://www.youtube.com/@CleverProgrammer
 
 ## Contact
