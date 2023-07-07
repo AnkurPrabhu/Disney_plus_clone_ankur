@@ -1,4 +1,3 @@
-Sure! Here's an example of a README.md file for a Disney+ Hotstar clone app:
 
 # Disney+ Hotstar Clone App
 
